@@ -2,6 +2,13 @@
 
 A repository containing approved artworks for use on Lessig 2016 projects.
 
+## tl;dr
+
+* **Applicable skills** visual design
+* **Slack** [#gh-assets](https://teamlessigtech.slack.com/messages/gh-assets/)
+* **Project lead** [@furf](https://teamlessigtech.slack.com/team/furf)
+
+
 ---
 
 ## Copyright and License
